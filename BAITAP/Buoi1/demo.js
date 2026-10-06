@@ -1,6 +1,6 @@
 let name = "Nam";
 let age = "24"
-console.log("Xin chao " + name);
+console.log("Xin chao " + name,age);
 console.log("Tuoi cua ban la " + age);
 /*
 */
